@@ -1,6 +1,5 @@
 JD_PATH = "../jd_data/*"
 RESUME_PATH = "../resume_data/*/*"
-OPENAI_API_KEY = "API_KEY"
 EMBEDDING_MODEL_NAME = "text-embedding-3-large"
 OUTPUT_PATH = "./output/"
 
